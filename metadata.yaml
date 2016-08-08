@@ -1,0 +1,34 @@
+_repo: Mr.-Scarborough-s-Family_12234
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: This striking story is dominated by the heroic John Scarborough, a wealthy
+  squire who, with almost superhuman energy, contrives from his deathbed to defeat
+  the hated law of entail. Seeking to bequeath his estate to the worthier of his two
+  sons, in his pursuit of justice he subjects them to a testing examination, baffles
+  the lawyers, and scandalizes society. The social world also comes under Trollope's
+  ironic gaze. His searching treatment of the various codes governing courtship and
+  marriage, money-lending, frustration of youth and the sadness of age.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+- !lcsh 'Hertfordshire (England) -- Fiction'
+- GITenberg
+title: Mr. Scarborough's Family
+url: http://www.gutenberg.org/ebooks/12234
